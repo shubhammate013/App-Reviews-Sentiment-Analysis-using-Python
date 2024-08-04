@@ -1,7 +1,6 @@
 # App-Reviews-Sentiment-Analysis-using-Python
 
-App Reviews Sentiment Analysis(1) means evaluating and understanding the sentiments expressed in user reviews of mobile applications (apps). It involves using data analysis techniques to determine whether the sentiments in these reviews are positive, negative, or neutral. If you want to learn how to analyze the sentiments of the reviews of any app, this article is for you. In this article, I’ll take you through the task of App Reviews Sentiment Analysis(1) using Python.
-
+App Reviews Sentiment Analysis(1) means evaluating and understanding the sentiments expressed in user reviews of mobile applications (apps). It involves using data analysis techniques to determine whether the sentiments in these reviews are positive, negative, or neutral. 
 
 App Reviews Sentiment Analysis(1) is a valuable tool for app developers and businesses to understand user feedback, prioritize feature updates, and maintain a positive user community.
 
